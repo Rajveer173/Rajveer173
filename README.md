@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajveer173
+- 👋 Hi, I’m @Rajveer173.
 - 👀 I’m interested in creating things
 - 🌱 I’m currently learning Data science 
 - 📫 How to reach me rajveerkharade9@gmail.com
