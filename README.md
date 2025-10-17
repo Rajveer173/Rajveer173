@@ -1,10 +1,64 @@
-- 👋 Hi, I’m @Rajveer173.
-- 👀 I’m interested in creating things
-- 🌱 I’m currently learning Data science 
-- 📫 How to reach me rajveerkharade9@gmail.com
-- 
+👋 Hey, I’m Rajveer Kharade
 
-<!---
-Rajveer173/Rajveer173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Cloud & Data Enthusiast | Aspiring Cloud Engineer | System Design Learner
+
+I’m passionate about building scalable, secure, and efficient systems that bridge the gap between software development and cloud infrastructure. I focus on crafting reliable architectures, optimizing data flow, and ensuring smooth system performance.
+
+
+---
+
+☁️ Core Expertise
+
+Cloud Engineering Fundamentals
+
+Amazon Web Services (AWS)
+
+Microsoft Azure
+
+System Commands & Administration
+
+Software Infrastructure Management
+
+Solution Architecture Design
+
+UML & ML Techniques
+
+Data Modeling & Database Systems
+
+Wireframing & Prototyping
+
+Technical Documentation
+
+
+
+---
+
+⚙️ Technical Stack
+
+Languages: Python, C, C++, JavaScript
+Cloud Platforms: AWS | Azure
+Tools & Technologies: Git, Docker, Linux CLI, Power BI, VS Code
+Modeling & Design: Draw.io, Lucidchart, Figma, StarUML
+Data Tools: SQL, Pandas, NumPy
+
+
+---
+
+🧩 Professional Interests
+
+Cloud Architecture & Infrastructure Automation
+
+Scalable Application Deployment
+
+Data Pipeline Design & Modeling
+
+DevOps Practices and System Optimization
+
+
+
+---
+
+📫 Connect With Me
+
+📧 Email: rajveerkharade9@gmail.com
+🌐 GitHub: Rajveer173
