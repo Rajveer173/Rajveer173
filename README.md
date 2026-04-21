@@ -1,62 +1,58 @@
-👋 Hey, I’m Rajveer Kharade
+# Hi there, I'm Rajveer Kharade
 
- Cloud & Data Enthusiast | Aspiring Cloud Engineer | System Design Learner
+## Cloud & Data Enthusiast | Aspiring Cloud Engineer | System Design Learner
 
-I’m passionate about building scalable, secure, and efficient systems that bridge the gap between software development and cloud infrastructure. I focus on crafting reliable architectures, optimizing data flow, and ensuring smooth system performance.
-
-
----
-
- Core Expertise
-
-Cloud Engineering Fundamentals
-
-Amazon Web Services (AWS)
-
-Microsoft Azure
-
-System Commands & Administration
-
-Software Infrastructure Management
-
-Solution Architecture Design
-
-UML & ML Techniques
-
-Data Modeling & Database Systems
-
-Wireframing & Prototyping
-
-Technical Documentation
-
-
-
--Technical Stack
-
-Languages: Python, typescript , java, JavaScript
-Cloud Platforms: AWS | Azure
-Tools & Technologies: Git, Docker, Linux CLI, Power BI, VS Code
-Modeling & Design: Draw.io, Lucidchart, Figma, StarUML
-Data Tools: SQL, Pandas, NumPy
-
+I am focused on building scalable, secure, and efficient systems that connect software development with modern cloud infrastructure. My work emphasizes clean architecture, optimized data flow, and reliable system performance.
 
 ---
 
-Professional Interests
+## About Me
 
-Cloud Architecture & Infrastructure Automation
-
-Scalable Application Deployment
-
-Data Pipeline Design & Modeling
-
-DevOps Practices and System Optimization
-
-
+* Interested in Cloud Architecture, DevOps, and System Design
+* Working with AWS and Azure for cloud-based solutions
+* Focused on building scalable backend systems and data pipelines
+* Strong interest in infrastructure automation and performance optimization
+* Contributor to open-source projects with improvements in documentation and usability
 
 ---
 
-connect With Me
+## Technical Skills
 
-Email: rajveerkharade9@gmail.com
-GitHub: Rajveer173
+### Languages
+
+Python, Java, JavaScript, TypeScript
+
+### Cloud Platforms
+
+Amazon Web Services (AWS), Microsoft Azure
+
+### Tools & Technologies
+
+Git, Docker, Linux CLI, Power BI, VS Code
+
+### Data & Libraries
+
+SQL, Pandas, NumPy , pytorch 
+
+### Design & Modeling
+
+Draw.io, Lucidchart, Figma, StarUML
+---
+
+## Open Source Contributions
+
+Contributed to multiple open-source projects, focusing on improving documentation, usability, and developer experience:
+
+* Angular ecosystem
+* Google CLI tools
+* HFS (HTTP File Server)
+* ListBrainz
+
+---
+
+## Connect With Me
+
+* Email: [rajveerkharade9@gmail.com](mailto:rajveerkharade9@gmail.com)
+* GitHub: https://github.com/Rajveer173
+
+---
