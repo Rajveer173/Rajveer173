@@ -33,7 +33,7 @@ Technical Documentation
 
 -Technical Stack
 
-Languages: Python, C, C++, JavaScript
+Languages: Python, typescript , java, JavaScript
 Cloud Platforms: AWS | Azure
 Tools & Technologies: Git, Docker, Linux CLI, Power BI, VS Code
 Modeling & Design: Draw.io, Lucidchart, Figma, StarUML
