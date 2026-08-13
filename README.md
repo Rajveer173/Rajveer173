@@ -1,18 +1,6 @@
 # Hi there, I'm Rajveer Kharade
 
-## Cloud & Data Enthusiast | Aspiring Cloud Engineer | System Design Learner
 
-I am focused on building scalable, secure, and efficient systems that connect software development with modern cloud infrastructure. My work emphasizes clean architecture, optimized data flow, and reliable system performance.
-
----
-
-## About Me
-
-* Interested in Cloud Architecture, DevOps, and System Design
-* Working with AWS and Azure for cloud-based solutions
-* Focused on building scalable backend systems and data pipelines
-* Strong interest in infrastructure automation and performance optimization
-* Contributor to open-source projects with improvements in documentation and usability
 
 ---
 
