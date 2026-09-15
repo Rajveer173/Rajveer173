@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Rajveer Kharadepatil — Software engineer and data science student. Backend systems in TypeScript and Python; applied NLP research on tokenization and LLMs. Open to internships, Jan–Jun 2027." src="assets/header-light.svg" width="100%">
+  <img alt="Rajveer Kharadepatil — Software engineer and data science student. Backend systems in TypeScript and Python; applied NLP research on tokenization and LLMs." src="assets/header-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
-  <img alt="Open source — 259 contributions in the last year, 62 public repositories, 6 external pull requests, 3 merged: angular/angular, HSF/phoenix, google-gemini/gemini-cli" src="assets/oss-light.svg" width="100%">
+  <img alt="Open source — angular/angular (merged), HSF/phoenix (merged), google-gemini/gemini-cli" src="assets/oss-light.svg" width="100%">
 </picture>
 
 <p align="center">
