@@ -37,21 +37,14 @@ Backend systems in TypeScript and Python, and applied NLP research on tokenizati
 |:--|:--|:--|
 | [angular/angular](https://github.com/angular/angular) | Remove outdated TODOs referencing TypeScript 2.1 | Merged |
 | [HSF/phoenix](https://github.com/HSF/phoenix) | Configurable column exclusion input | Merged |
-| [angular/angular](https://github.com/angular/angular) | Mixed pixel and responsive values in NgOptimizedImage | Open |
+
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | `formatDuration`, `formatBytes` fix, `countLines` utils | Closed |
 
 <br>
 
 ### Activity
 
-<table>
-  <tr>
-    <td align="center"><b>259</b><br><sub>contributions, last year</sub></td>
-    <td align="center"><b>62</b><br><sub>public repositories</sub></td>
-    <td align="center"><b>6</b><br><sub>external pull requests</sub></td>
-    <td align="center"><b>3</b><br><sub>merged</sub></td>
-  </tr>
-</table>
+
 
 <sub>Updated September 2026</sub>
 
