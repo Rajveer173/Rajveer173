@@ -1,9 +1,9 @@
 ## Rajveer Kharadepatil
 
-Software engineer and data science student — B.Tech CSE '27 · B.S. Data Science, IIT Madras.
+Software engineer and data science student.
 Backend systems in TypeScript and Python, and applied NLP research on tokenization and LLMs.
 
-Previously React Developer at Caskey. Open to SDE / ML internships, Jan – Jun 2027.
+
 
 <br>
 
