@@ -1,62 +1,18 @@
-## Rajveer Kharadepatil
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Rajveer Kharadepatil — Software engineer and data science student. Backend systems in TypeScript and Python; applied NLP research on tokenization and LLMs. Open to internships, Jan–Jun 2027." src="assets/header-light.svg" width="100%">
+</picture>
 
-Software engineer and data science student — B.Tech CSE '27 · B.S. Data Science, IIT Madras.
-Backend systems in TypeScript and Python, and applied NLP research on tokenization and LLMs.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack — Python, TypeScript, JavaScript, Java, SQL, C, Dart · Node.js, Express, FastAPI, WebSockets, WebRTC, OAuth 2.0 · PyTorch, Hugging Face, LangChain, scikit-learn, LoRA/QLoRA · PostgreSQL, Prisma, Supabase, ChromaDB · React, Next.js, Vue, Tailwind, Flutter · AWS, Azure, Docker, GitHub Actions, Linux" src="assets/stack-light.svg" width="100%">
+</picture>
 
-Previously React Developer at Caskey. Open to SDE / ML internships, Jan – Jun 2027.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
+  <img alt="Open source — 259 contributions in the last year, 62 public repositories, 6 external pull requests, 3 merged: angular/angular, HSF/phoenix, google-gemini/gemini-cli" src="assets/oss-light.svg" width="100%">
+</picture>
 
-<br>
-
-### Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,dart&perline=12" />
+<p align="center">
+  <a href="mailto:rajveerkharade9@gmail.com">rajveerkharade9@gmail.com</a>
 </p>
-
-**Backend & Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,vue,tailwind,flutter&perline=12" />
-</p>
-
-**ML & Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,postgres,prisma,supabase&perline=12" />
-</p>
-
-**Cloud & Tooling**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions,linux&perline=12" />
-</p>
-
-<br>
-
-### Open Source
-
-| Repository | Contribution | Status |
-|:--|:--|:--|
-| [angular/angular](https://github.com/angular/angular) | Remove outdated TODOs referencing TypeScript 2.1 | Merged |
-| [HSF/phoenix](https://github.com/HSF/phoenix) | Configurable column exclusion input | Merged |
-| [angular/angular](https://github.com/angular/angular) | Mixed pixel and responsive values in NgOptimizedImage | Open |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | `formatDuration`, `formatBytes` fix, `countLines` utils | Closed |
-
-<br>
-
-### Activity
-
-<table>
-  <tr>
-    <td align="center"><b>259</b><br><sub>contributions, last year</sub></td>
-    <td align="center"><b>62</b><br><sub>public repositories</sub></td>
-    <td align="center"><b>6</b><br><sub>external pull requests</sub></td>
-    <td align="center"><b>3</b><br><sub>merged</sub></td>
-  </tr>
-</table>
-
-<sub>Updated September 2026</sub>
-
-<br>
-
-### Contact
-
-[rajveerkharade9@gmail.com](mailto:rajveerkharade9@gmail.com)
